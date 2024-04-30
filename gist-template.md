@@ -1,6 +1,6 @@
 # Regex Tutorial Breakdown
 
-Welcome to my regex (regular expressions) tutorial breakdown. Here i will break down a piece of regex hexcode (hexadecimal) and simplify the syntax.
+Welcome to my regex (regular expressions) tutorial breakdown. Here i will break down a piece of regex hexcode (hexadecimal) and simplify the syntax and the meanings.
 
 ## Summary
 The following code will be used and explained throught this tutorial. Regex or Regular Expressions is specified set of charaacters that are used to identify a desired string. Often, they are used to check if an inputted string fits the context in which it has been submitted throughout the code. To have a valid regex hexadecimal or "hexcode" will have to satisfy the following conditions.
